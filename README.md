@@ -91,4 +91,8 @@ void loop()
 }
 ```
 2. Se conecatan los dispositivos y sensores de la siguiente manera:
-![](https://github.com/ossajjasso-arch/Practica-reporte/blob/main/images.jpg?raw=true)
+![](https://github.com/raul7ops-sketch/Reporte-5-DHT-y-ultrasonico/blob/main/Reporte%205%20conexion.png?raw=true)
+3. Presionamos el boton de correr simulacion y veremos como nuestro codigo corre y manda las señales de los sensores.
+## Conclusion
+### Observamos como pueden unirse los diferentes sensores de entras y salidas que estos manejan con la ESP 22, ademas de que podemos arrojar tantos datos a trabas de una pantalla que el usuario puede verificar.7
+## Creditos
