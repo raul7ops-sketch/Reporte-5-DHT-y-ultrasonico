@@ -91,3 +91,4 @@ void loop()
 }
 ```
 2. Se conecatan los dispositivos y sensores de la siguiente manera:
+![](https://github.com/ossajjasso-arch/Practica-reporte/blob/main/images.jpg?raw=true)
