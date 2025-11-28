@@ -96,3 +96,4 @@ void loop()
 ## Conclusion
 ### Observamos como pueden unirse los diferentes sensores de entras y salidas que estos manejan con la ESP 22, ademas de que podemos arrojar tantos datos a trabas de una pantalla que el usuario puede verificar.7
 ## Creditos
+Este reporte fue realizado por Raul Aguilar Lagunas. https://github.com/raul7ops-sketch
